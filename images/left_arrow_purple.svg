@@ -1,0 +1,15 @@
+
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="workout-library-1" transform="translate(-37.000000, -118.000000)" stroke="#745ee6" stroke-width="1.5">
+            <g id="calendar" transform="translate(13.000000, 97.000000)">
+                <g id="header" transform="translate(18.000000, 11.000000)">
+                    <polyline id="arrow" points="12 21 7 16 12 11"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
