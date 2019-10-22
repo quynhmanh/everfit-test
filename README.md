@@ -1,5 +1,3 @@
-# Create React App example
-
 
 ## Install it and run:
 
@@ -7,7 +5,3 @@
 npm install
 npm start
 ```
-
-## The idea behind the example
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
